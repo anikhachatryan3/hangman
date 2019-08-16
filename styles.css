@@ -1,0 +1,19 @@
+.header {
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+body {
+    background-color: rgb(174, 220, 248);
+}
+.button {
+    padding-top: 10px;
+    font-size: 40px;
+}
+.alphabet {
+    text-align: center;
+}
+.word {
+    text-align: center;
+    padding-top: 10px;
+}
